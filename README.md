@@ -2,7 +2,8 @@
 This simplt telegram bot accepts photos and videos under 10 seconds.
 Then it uses Canny filter on accepted data and export it back to user.
 
-## How to use
+# How to use
 
-# 1. Download repo
-# 2. pip install -r requirements.txt
+##  1. Download repo
+##  2. pip install -r requirements.txt
+##  3. python main.py
